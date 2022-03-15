@@ -1,0 +1,8 @@
+{
+  "name": "MusicTrackTransitionMod",
+  "displayName": "Music Track Transition Mod",
+  "mainModule": "MusicTrackTransitionMod.dll",
+  "mainClass": "MusicTrackTransitionMod.Mod",
+  "version": "1.0.0",
+  "dependencies": []
+}
